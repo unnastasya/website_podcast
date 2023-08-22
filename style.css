@@ -329,7 +329,7 @@ a {
 	height: 112px;
 	border-radius: 50%;
 	border: 0;
-	background: #118da8;
+	background: #118ad8;
 	display: block;
 	margin-bottom: 20px;
 }
@@ -338,7 +338,7 @@ a {
 	font-size: 18px;
 	line-height: 27px;
 	font-weight: 400;
-	color: #118da8;
+	color: #118ad8;
 }
 
 .info__block__title {
@@ -442,7 +442,7 @@ a {
 	font-size: 18px;
 	line-height: 27px;
 	font-weight: 400px;
-	color: #118da8;
+	color: #118ad8;
 	display: block;
 }
 
@@ -475,7 +475,7 @@ a {
 	padding: 0 20px;
 	border: 0px;
 	border-radius: 6px;
-	background: #118da8;
+	background: #118ad8;
 }
 
 .reviews {
@@ -793,6 +793,13 @@ ul {
 		align-items: start;
 	}
 
+	.episodes,
+	.info,
+	.subscribe__form,
+	.reviews {
+		margin-bottom: 50px;
+	}
+
 	.info__container {
 		flex-direction: column;
 		gap: 50px;
@@ -888,7 +895,7 @@ ul {
 		height: 60px;
 		border-radius: 50%;
 		border: 0;
-		background: #118da8;
+		background: #118ad8;
 		display: block;
 		margin-bottom: 20px;
 	}
